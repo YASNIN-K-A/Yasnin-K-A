@@ -1,7 +1,7 @@
 ## Hi there 
 
 #  Yasnin K A
-### M.Sc. Statistics with Data Science | Aspiring Data Scientist
+### M.Sc. Statistics with Data Science | Aspiring Data Scientist |
 
 ---
 
